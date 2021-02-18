@@ -1,0 +1,55 @@
+/*
+ *Form CSS
+ */
+.form-label{
+        width:150px !important;
+    }
+    .form-label-left{
+        width:70px !important;
+    }
+    .form-line{
+        padding:10px;
+    }
+    .form-label-right{
+        width:150px !important;
+    }
+    .form-all{
+        width:650px;
+        background:url("../images/style1_bg.gif") repeat-x scroll center top rgb(255, 255, 255);
+        color:#000080 !important;
+        font-family:"Trebuchet MS";
+        font-size:12px;
+    }
+	#container{
+		display:block;
+		width:650px;
+		margin: 0 auto;
+	}
+	#divider{
+		border-top: 1px solid #CCCCCC;
+		background-color:#ffffff;
+		padding-top:17px;
+		
+	}
+	#divider h3{
+		margin-left: 10px;
+		margin-bottom: 2px;
+		color:#000080;
+		font-size:18px;
+	}
+	#log_table{
+		width:100%;
+		background-color:#e1f1f8;
+		color:#000080;
+		font-size:11px;
+		
+	}
+	#log_table tr th {
+		background-color:#b8e3f6;
+	}
+	#log_table tr td{
+		text-align:center;
+		border-bottom:dashed;
+		border-bottom-width:thin;
+		border-bottom-color:#000090;
+	}
